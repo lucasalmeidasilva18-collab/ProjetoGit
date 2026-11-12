@@ -9,3 +9,8 @@ git init
 echo "Atividade de Git realizada por Lucas" > readme.txt
 git add readme.txt
 git commit -m "Primeiro commit"
+
+para adicionar arquivo:
+
+git add .
+git commit -m "Primeiro commit: criando e modificando arquivo"
