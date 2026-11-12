@@ -1,6 +1,6 @@
 # ProjetoGit
 
-entre no windows powerpoint e digite cada um desses a seguir:
+entre no windows PowerShell e digite cada um desses a seguir:
 mkdir atividade-git && cd atividade-git
 touch readme.txt
 git config --global user.name "Lucas"
